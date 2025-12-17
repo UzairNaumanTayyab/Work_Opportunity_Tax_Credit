@@ -59,4 +59,4 @@ def hire_employees(df, n_new: int):
 
     new_df = pd.DataFrame(new_rows)
 
-    return pd.concat([df, new_df], ignore_index=True)
+    return pd.concat([df, new_df])
