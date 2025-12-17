@@ -3,7 +3,7 @@ from Scripts.simulate_day import simulate_day
 import os
 
 # Path to your dataset
-DATA_PATH = r"E:\Downloads\Data Engineering Project_test\Data Engineering Project_Test_AIRFLOW\Datasets\Dataset1.csv"
+DATA_PATH = r"Datasets\Dataset1.csv"
 
 # Load existing employee data if it exists, otherwise start empty
 if os.path.exists(DATA_PATH):
