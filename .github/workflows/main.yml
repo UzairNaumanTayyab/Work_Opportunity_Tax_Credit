@@ -29,15 +29,16 @@ jobs:
 
     - name: Commit and Push changes
       run: |
-        # 1. Identify the bot so Git allows the commit
         git config --global user.name "saecqwe"
-        git config --global user.email "abdullahsf99@gmail.com"
+        git config --global user.email "abdullahsf99@gmail..com"
         
-        # 2. Stage the specific file that was updated
+        # Ensure we are adding the correct path
         git add Datasets/Dataset1.csv
         
-        # 3. Commit only if there are changes
-        git commit -m "Automated HR update: $(date)" || echo "No changes to commit"
-        
-        # 4. Push back to the repository
-        git push
+        # This checks if there's actually a change to avoid "empty commit" errors
+        if git diff --staged --quiet; then
+          echo "No changes detected in Dataset1.csv"
+        else
+          git commit -m "Automated HR update: $(date)"
+          git push
+        fi
