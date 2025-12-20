@@ -26,3 +26,10 @@ jobs:
 
     - name: Run main.py
       run: python main.py
+
+    - name: Commit and Push changes
+      run: |
+        
+        # The next line prevents the workflow from failing if no hires/fires happened today
+        git commit -m "Automated HR update: $(date)" || echo "No changes to commit"
+        git push
