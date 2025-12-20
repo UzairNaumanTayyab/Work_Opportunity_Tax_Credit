@@ -29,7 +29,15 @@ jobs:
 
     - name: Commit and Push changes
       run: |
+        # 1. Identify the bot so Git allows the commit
+        # git config --global user.name "github-actions[bot]"
+        # git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
-        # The next line prevents the workflow from failing if no hires/fires happened today
+        # 2. Stage the specific file that was updated
+        git add Datasets/Dataset1.csv
+        
+        # 3. Commit only if there are changes
         git commit -m "Automated HR update: $(date)" || echo "No changes to commit"
+        
+        # 4. Push back to the repository
         git push
