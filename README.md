@@ -1,4 +1,3 @@
-```markdown
 # HR Analytics & WOTC Tracking Project
 
 This is an ongoing data engineering project designed to help organizations track employees eligible for the Work Opportunity Tax Credit (WOTC) and monitor their progress toward the 400-hour threshold.
@@ -18,27 +17,6 @@ Enable HR and finance teams to identify WOTC-eligible employees, track hours wor
 - Dashboard-ready data model for visualization
 - Modular design to add new HR analytics features over time
 
-## Project Structure
-
-```
-
-hr-wotc-project/
-│
-├─ data/                    # Synthetic datasets
-│   ├─ employees.csv
-│   ├─ weekly_hours.csv
-│   └─ wotc_eligible.csv
-│
-├─ scripts/                 # Utilities for data generation & transformation
-│   └─ generate_synthetic_data.py
-│
-├─ sql/                     # Database setup & queries
-│   └─ wotc_queries.sql
-│
-├─ requirements.txt          # Python dependencies
-└─ README.md
-
-```
 
 ## Technologies Used
 
@@ -46,7 +24,7 @@ hr-wotc-project/
 - SQLite or Postgres for database storage
 - Pandas and Faker for synthetic data creation
 - Dashboard tools (e.g., Metabase, Power BI, Tableau) for visualization
-
+- GitHub Automation Tool
 ## Project Workflow
 
 1. Generate synthetic data – employee profiles, weekly hours, and WOTC eligibility
