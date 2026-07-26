@@ -23,7 +23,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 22,Dwayne,Newton,687 Nicholas Pines Suite 716,Lake Michaelberg,CA,849,(512)865-7217,LTC Insurance,Companion Care,CG,Active,2026-07-01,,10,Madison Carrillo,(350)389-6634
 23,Ryan,Holland,703 Douglas Mission,South William,MA,34347,963.948.5974x64469,Private Pay,Companion Care,LPN,Discharged - Completed,2026-07-01,2026-07-03,40,Bradley Pollard,001-531-330-9546x07743
 24,Teresa,Pena,877 Daniels Trace Apt. 134,Kyletown,NY,21770,202.403.3577x0535,Medicaid,Respite Care,LPN,Discharged - Deceased,2026-07-01,2026-07-15,14,Jacqueline Reese,748-259-2017
-25,Kimberly,Haynes,527 Lopez Garden Suite 259,North Jamieburgh,IA,98603,326.747.7392,Medicaid,Homemaker Services,CHHA,Active,2026-07-01,,20,James Villanueva,961-273-5554x84787
+25,Kimberly,Haynes,527 Lopez Garden Suite 259,North Jamieburgh,IA,98603,326.747.7392,Medicaid,Homemaker Services,CHHA,Discharged - Deceased,2026-07-01,2026-07-26,20,James Villanueva,961-273-5554x84787
 26,Sydney,Patterson,420 Frank Hollow Suite 698,Port Jonathan,WY,73247,3685142604,Medicaid,Respite Care,LPN,Active,2026-07-02,,40,Troy Mckee,330-538-0324
 27,Luis,Johnson,78324 Lyons Spring,Deanport,NY,49176,8446449935,Medicaid,Skilled Nursing,CG,Discharged - Family Request,2026-07-02,2026-07-11,6,Lisa Garcia,8506883297
 28,Eric,Miller,4797 Ronald Expressway Suite 330,Kimfort,ID,95898,860-935-4356x414,LTC Insurance,Companion Care,CHHA,Active,2026-07-02,,14,Michael Tran,+1-752-907-3501x43602
@@ -72,3 +72,5 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 71,Kara,Williams,591 Craig Union,Waltershire,AR,73379,(397)803-7090,LTC Insurance,Skilled Nursing,LPN,Active,2026-07-24,,6,Megan Evans,(401)644-9883x9723
 72,Michelle,Johnson,5600 Johnston Motorway Suite 521,Millershire,WY,54068,001-593-610-7898x28646,Medicaid,Skilled Nursing,CNA,Active,2026-07-25,,28,Charlotte Gomez,+1-550-826-9945x21538
 73,John,Williamson,670 Jackson Mills Suite 809,West Jeffrey,DE,70823,560.911.2587x27401,Private Pay,Respite Care,CG,Active,2026-07-25,,20,Troy Perkins,(295)322-6061x58584
+74,Anthony,Smith,400 Tina Grove,Mcgrathport,MH,36536,463-762-1376,Medicaid,Respite Care,CHHA,Active,2026-07-26,,10,Teresa Garcia,882-397-3722x3580
+75,Brandon,Combs,8840 Mike Green,Alexfort,WV,48149,001-780-723-0682x79372,LTC Insurance,Homemaker Services,CHHA,Active,2026-07-26,,8,Andrea Becker,(300)427-0459
