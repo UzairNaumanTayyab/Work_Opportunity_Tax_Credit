@@ -75,6 +75,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 74,Anthony,Smith,400 Tina Grove,Mcgrathport,MH,36536,463-762-1376,Medicaid,Respite Care,CHHA,Active,2026-07-26,,10,Teresa Garcia,882-397-3722x3580
 75,Brandon,Combs,8840 Mike Green,Alexfort,WV,48149,001-780-723-0682x79372,LTC Insurance,Homemaker Services,CHHA,Active,2026-07-26,,8,Andrea Becker,(300)427-0459
 76,Sean,Rowe,9817 Campbell Turnpike,Lopezmouth,NM,35166,505.633.7228x72660,VA Benefits,Respite Care,CNA,Active,2026-07-27,,20,Laura Perkins,+1-697-374-4039x66245
-77,Brenda,Harvey,7749 Adrian Harbors Suite 677,Mendezmouth,PR,17935,211.255.2550x8858,Medicare,Skilled Nursing,CHHA,Active,2026-07-29,,6,Shannon Haney,483-855-4519x4358
-78,Larry,Morales,98505 Pierce Tunnel Suite 337,New Melissaport,NY,08507,+1-578-519-4443x878,Medicare,Respite Care,CHHA,Active,2026-07-29,,6,Wayne Walsh,662.624.6452
+77,Brenda,Harvey,7749 Adrian Harbors Suite 677,Mendezmouth,PR,17935,211.255.2550x8858,Medicare,Skilled Nursing,CHHA,Discharged - Completed,2026-07-29,2026-07-30,6,Shannon Haney,483-855-4519x4358
+78,Larry,Morales,98505 Pierce Tunnel Suite 337,New Melissaport,NY,8507,+1-578-519-4443x878,Medicare,Respite Care,CHHA,Active,2026-07-29,,6,Wayne Walsh,662.624.6452
 79,Ryan,Yates,129 Savannah Throughway,Port Deniseborough,PW,21282,941.513.7475,Medicaid,Companion Care,CHHA,Active,2026-07-29,,20,Kelly Pollard,(718)460-5740x3918
+80,Joseph,Myers,5778 Wolfe Land,Lake Paulville,IL,56768,+1-749-306-5862x416,Medicaid,Homemaker Services,LPN,Active,2026-07-30,,8,Lisa Johnson,361.853.8921x7830
