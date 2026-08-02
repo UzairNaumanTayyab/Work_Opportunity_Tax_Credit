@@ -46,7 +46,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 45,Christopher,Yoder,9368 Clayton Tunnel Apt. 052,East Jessica,IA,15640,(590)354-9602x58213,Medicaid,Skilled Nursing,RN,Active,2026-07-02,,40,Jeffrey Brown,894-573-3537x955
 46,Nicholas,Butler,23583 Nicole Squares Apt. 318,Lake Richardstad,WV,95589,455-448-3860,LTC Insurance,Homemaker Services,CHHA,Discharged - Family Request,2026-07-02,2026-07-02,10,Sandra Tyler,+1-693-407-1692x0051
 47,James,Villegas,877 Kenneth Port Suite 591,West Kevinshire,IN,8685,+1-402-385-8379x337,Private Pay,Companion Care,CG,Discharged - Family Request,2026-07-04,2026-07-05,14,Edward Edwards PhD,(625)998-6458x254
-48,Mary,Jordan,00472 Erin Spring,Ashleeport,PA,1561,(915)864-7620x58446,Medicare,Respite Care,CG,Active,2026-07-04,,40,Michael Cruz,+1-764-473-5131
+48,Mary,Jordan,00472 Erin Spring,Ashleeport,PA,1561,(915)864-7620x58446,Medicare,Respite Care,CG,Discharged - Completed,2026-07-04,2026-08-02,40,Michael Cruz,+1-764-473-5131
 49,Susan,Davis,89849 White Rapid,Port Shawnchester,HI,73500,285.602.6595x58836,Medicare,Skilled Nursing,CG,Active,2026-07-05,,20,George Klein,289.764.3298
 50,Joanne,Wallace,35746 Ruiz Path,Lake Bethtown,IA,60461,001-282-580-2655x6271,VA Benefits,Skilled Nursing,RN,Active,2026-07-05,,8,James Taylor,630.886.2902
 51,Daniel,Walker,1623 Blanchard Locks Suite 253,Kimberlyland,NJ,49394,+1-672-797-2283x732,VA Benefits,Companion Care,CHHA,Active,2026-07-07,,6,Kimberly Hayes,+1-803-617-9575x24632
@@ -82,3 +82,4 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 81,Carolyn,Franco,03520 Nancy Turnpike Apt. 978,Lake Garystad,MD,96063,(505)945-1823,Medicare,Skilled Nursing,CHHA,Active,2026-07-31,,10,Michaela Perez,(614)382-8560x744
 82,Bethany,Stevens,4196 Brown Ville Suite 671,South Jamie,ID,29679,+1-774-320-7354,Private Pay,Homemaker Services,LPN,Active,2026-08-01,,8,Jason Marshall,494.519.8008x8043
 83,Jamie,Rice,587 Michelle Way Suite 980,South Whitneychester,NJ,70365,(961)696-5704,Medicaid,Homemaker Services,LPN,Active,2026-08-01,,4,Xavier Mullen,+1-989-590-0873x453
+84,Jerry,Murphy,5846 Brooke Path Apt. 785,Lake Benjaminfort,MI,20842,399-422-8874x7818,Medicare,Respite Care,LPN,Active,2026-08-02,,8,Alan Wilson,+1-877-528-7256x5266
