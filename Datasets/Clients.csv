@@ -1,6 +1,6 @@
 client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,care_type,required_position,status,start_of_care_date,end_of_care_date,weekly_authorized_hours,emergency_contact,emergency_contact_phone
 1,Shawn,Larson,5729 Alvarez Pines Suite 522,Hughesshire,VT,83162,5507472134,Private Pay,Companion Care,CG,Active,2026-07-01,,40,Logan Cannon,+1-929-373-9703x47476
-2,Angela,Chavez,9901 Lauren Dale Suite 163,New Katelynchester,MP,59813,+1-751-925-2080x34714,Medicare,Personal Care,CNA,Active,2026-07-01,,6,Maureen Rodriguez,5928014075
+2,Angela,Chavez,9901 Lauren Dale Suite 163,New Katelynchester,MP,59813,+1-751-925-2080x34714,Medicare,Personal Care,CNA,Discharged - Deceased,2026-07-01,2026-08-03,6,Maureen Rodriguez,5928014075
 3,Eric,Manning,085 Torres Walks,Johnland,WV,77387,+1-274-811-1602,VA Benefits,Personal Care,CG,Active,2026-07-01,,40,Joshua King,461.526.6111x6398
 4,Thomas,Smith,104 Armstrong Knoll Suite 404,Johnsonmouth,NJ,89259,001-727-512-3174x3399,Medicaid,Companion Care,CG,Active,2026-07-01,,20,Erik James,643.819.4380x25341
 5,Jennifer,Cooper,027 White Meadows,Kathleenton,MH,33004,+1-808-746-7911x2943,VA Benefits,Companion Care,CG,Active,2026-07-01,,40,Brian Nash,001-377-323-8822
@@ -83,3 +83,6 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 82,Bethany,Stevens,4196 Brown Ville Suite 671,South Jamie,ID,29679,+1-774-320-7354,Private Pay,Homemaker Services,LPN,Active,2026-08-01,,8,Jason Marshall,494.519.8008x8043
 83,Jamie,Rice,587 Michelle Way Suite 980,South Whitneychester,NJ,70365,(961)696-5704,Medicaid,Homemaker Services,LPN,Active,2026-08-01,,4,Xavier Mullen,+1-989-590-0873x453
 84,Jerry,Murphy,5846 Brooke Path Apt. 785,Lake Benjaminfort,MI,20842,399-422-8874x7818,Medicare,Respite Care,LPN,Active,2026-08-02,,8,Alan Wilson,+1-877-528-7256x5266
+85,Michael,Hardin,5151 Butler Avenue,North Jennifer,DE,52490,220.917.1304x981,Medicare,Respite Care,CNA,Active,2026-08-03,,28,Juan Reid,932.974.0292x301
+86,Lee,Benson,723 Wilson Burgs,Williamshire,WA,92116,(414)977-4496,Private Pay,Companion Care,RN,Active,2026-08-03,,14,Mr. Michael Mitchell,453-302-1104x234
+87,Benjamin,Kaiser,578 Gina Bridge Apt. 965,Karafort,VA,39256,329-316-0838,Medicare,Skilled Nursing,LPN,Active,2026-08-03,,6,Robert Moore,750-567-7480x011
