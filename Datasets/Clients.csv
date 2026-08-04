@@ -86,3 +86,5 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 85,Michael,Hardin,5151 Butler Avenue,North Jennifer,DE,52490,220.917.1304x981,Medicare,Respite Care,CNA,Active,2026-08-03,,28,Juan Reid,932.974.0292x301
 86,Lee,Benson,723 Wilson Burgs,Williamshire,WA,92116,(414)977-4496,Private Pay,Companion Care,RN,Active,2026-08-03,,14,Mr. Michael Mitchell,453-302-1104x234
 87,Benjamin,Kaiser,578 Gina Bridge Apt. 965,Karafort,VA,39256,329-316-0838,Medicare,Skilled Nursing,LPN,Active,2026-08-03,,6,Robert Moore,750-567-7480x011
+88,Michael,Anderson,703 Archer Falls Suite 863,East Cynthiaview,DE,29046,7656886290,Medicare,Companion Care,LPN,Discharged - Completed,2026-08-04,2026-08-04,6,Amanda Ewing,(548)573-6868
+89,Matthew,Clark,6540 James Tunnel Suite 548,Lopezview,MI,86921,(510)973-1598,Medicare,Companion Care,RN,Active,2026-08-04,,40,Kelly Wolfe,851.448.2776
