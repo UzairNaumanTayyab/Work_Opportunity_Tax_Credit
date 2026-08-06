@@ -1,7 +1,7 @@
 client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,care_type,required_position,status,start_of_care_date,end_of_care_date,weekly_authorized_hours,emergency_contact,emergency_contact_phone
 1,Shawn,Larson,5729 Alvarez Pines Suite 522,Hughesshire,VT,83162,5507472134,Private Pay,Companion Care,CG,Active,2026-07-01,,40,Logan Cannon,+1-929-373-9703x47476
 2,Angela,Chavez,9901 Lauren Dale Suite 163,New Katelynchester,MP,59813,+1-751-925-2080x34714,Medicare,Personal Care,CNA,Discharged - Deceased,2026-07-01,2026-08-03,6,Maureen Rodriguez,5928014075
-3,Eric,Manning,085 Torres Walks,Johnland,WV,77387,+1-274-811-1602,VA Benefits,Personal Care,CG,Active,2026-07-01,,40,Joshua King,461.526.6111x6398
+3,Eric,Manning,085 Torres Walks,Johnland,WV,77387,+1-274-811-1602,VA Benefits,Personal Care,CG,Discharged - Hospitalized,2026-07-01,2026-08-06,40,Joshua King,461.526.6111x6398
 4,Thomas,Smith,104 Armstrong Knoll Suite 404,Johnsonmouth,NJ,89259,001-727-512-3174x3399,Medicaid,Companion Care,CG,Active,2026-07-01,,20,Erik James,643.819.4380x25341
 5,Jennifer,Cooper,027 White Meadows,Kathleenton,MH,33004,+1-808-746-7911x2943,VA Benefits,Companion Care,CG,Active,2026-07-01,,40,Brian Nash,001-377-323-8822
 6,Wayne,Owen,094 Natalie Cape,Colemanbury,CA,6961,001-870-379-4255x41820,LTC Insurance,Respite Care,LPN,Active,2026-07-01,,10,Eddie Simpson,(966)794-8552
@@ -91,3 +91,5 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 90,Charles,Thomas,7143 Thompson Burgs Suite 799,Lake Denise,ID,87888,297-799-8593,LTC Insurance,Skilled Nursing,RN,Active,2026-08-05,,6,Michael Becker,(381)743-1989x674
 91,Johnny,Rollins,008 Abigail Place,Travisport,LA,60584,335.842.7326x9362,VA Benefits,Homemaker Services,CNA,Active,2026-08-05,,4,Katherine Patton,+1-872-723-3363x160
 92,Leslie,Ramos,80774 Solomon River Suite 617,East Sarah,VA,86481,+1-883-369-8788,Medicare,Companion Care,RN,Active,2026-08-05,,20,Lauren Martinez,(311)847-8492
+93,Jill,Arnold,829 Jordan Park,Hornside,SC,12610,001-791-912-8733x3259,VA Benefits,Companion Care,CG,Active,2026-08-06,,6,Jessica Gonzalez,919.681.0590
+94,Mary,Valentine,460 Giles Trace,New Linda,AK,03364,693.952.3176x441,Private Pay,Homemaker Services,CHHA,Active,2026-08-06,,40,Chris Jordan,(306)553-3002x562
