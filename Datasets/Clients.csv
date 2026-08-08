@@ -42,7 +42,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 41,Mary,Horne,49419 Pamela Forks,Kellyfort,KY,21237,200.287.0029x16114,Medicare,Homemaker Services,RN,Active,2026-07-15,,10,Sean Drake,(355)990-4082
 42,Annette,Turner,1513 Kelley Flat Apt. 947,Cameronburgh,DE,57543,(217)373-2394,Medicaid,Companion Care,CNA,Discharged - Deceased,2026-07-15,2026-07-18,4,Daniel Davidson,386-600-7206x669
 43,Allison,Strong,321 Ryan Rest,South Regina,GA,75149,001-334-580-9856,LTC Insurance,Personal Care,CNA,Active,2026-07-01,,20,Jessica Barnes,255-984-5351
-44,Carlos,Mitchell,4141 Roy Terrace Apt. 147,North Evelyn,ME,45068,432.353.8563,Medicaid,Homemaker Services,RN,Active,2026-07-01,,14,Michaela Tapia,001-691-450-8593
+44,Carlos,Mitchell,4141 Roy Terrace Apt. 147,North Evelyn,ME,45068,432.353.8563,Medicaid,Homemaker Services,RN,Discharged - Family Request,2026-07-01,2026-08-08,14,Michaela Tapia,001-691-450-8593
 45,Christopher,Yoder,9368 Clayton Tunnel Apt. 052,East Jessica,IA,15640,(590)354-9602x58213,Medicaid,Skilled Nursing,RN,Active,2026-07-02,,40,Jeffrey Brown,894-573-3537x955
 46,Nicholas,Butler,23583 Nicole Squares Apt. 318,Lake Richardstad,WV,95589,455-448-3860,LTC Insurance,Homemaker Services,CHHA,Discharged - Family Request,2026-07-02,2026-07-02,10,Sandra Tyler,+1-693-407-1692x0051
 47,James,Villegas,877 Kenneth Port Suite 591,West Kevinshire,IN,8685,+1-402-385-8379x337,Private Pay,Companion Care,CG,Discharged - Family Request,2026-07-04,2026-07-05,14,Edward Edwards PhD,(625)998-6458x254
@@ -93,5 +93,8 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 92,Leslie,Ramos,80774 Solomon River Suite 617,East Sarah,VA,86481,+1-883-369-8788,Medicare,Companion Care,RN,Active,2026-08-05,,20,Lauren Martinez,(311)847-8492
 93,Jill,Arnold,829 Jordan Park,Hornside,SC,12610,001-791-912-8733x3259,VA Benefits,Companion Care,CG,Active,2026-08-06,,6,Jessica Gonzalez,919.681.0590
 94,Mary,Valentine,460 Giles Trace,New Linda,AK,3364,693.952.3176x441,Private Pay,Homemaker Services,CHHA,Active,2026-08-06,,40,Chris Jordan,(306)553-3002x562
-95,David,Hendrix,30967 Armstrong Burg,New Andrewland,IA,07600,+1-276-894-0628,Medicaid,Respite Care,CG,Active,2026-08-07,,14,Amanda Mitchell,001-919-310-8568x27472
+95,David,Hendrix,30967 Armstrong Burg,New Andrewland,IA,7600,+1-276-894-0628,Medicaid,Respite Care,CG,Active,2026-08-07,,14,Amanda Mitchell,001-919-310-8568x27472
 96,John,Owens,678 Ibarra Squares,Melanieton,TX,63534,(930)878-7297,Medicare,Homemaker Services,CHHA,Active,2026-08-07,,8,Anthony Wade,001-996-526-9087
+97,Christine,Davis,92865 Martinez Cove,South Christineland,WY,71517,001-437-511-6645x9433,VA Benefits,Skilled Nursing,CNA,Active,2026-08-08,,10,Tanner Willis,001-948-511-5376
+98,Mia,Phillips,7328 Crystal Mountain,Smithtown,TX,47176,+1-812-387-8543,LTC Insurance,Companion Care,CNA,Active,2026-08-08,,10,Jason Gordon,001-541-768-2785x86222
+99,Allison,Hubbard,528 Rodriguez Wall,Timothystad,WI,94564,634-905-4127,VA Benefits,Homemaker Services,LPN,Active,2026-08-08,,4,Kerri Morton,859-749-1868
