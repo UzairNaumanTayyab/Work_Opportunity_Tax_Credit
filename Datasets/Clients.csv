@@ -61,7 +61,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 60,Sarah,Velazquez,066 Williams Squares Suite 955,West John,NY,57857,+1-463-590-7498x28492,LTC Insurance,Companion Care,LPN,Active,2026-07-17,,4,Thomas Mason,930-385-3058x7624
 61,Natalie,Johnson,5280 Edward Glens Apt. 200,Lake Jaclyn,IL,19243,8436716540,Medicare,Companion Care,CNA,Active,2026-07-18,,28,Kristen Leblanc,+1-651-526-2330x0724
 62,Jody,Dominguez,294 Jillian Parks Apt. 641,East David,WY,98018,001-328-292-9703x835,Medicare,Homemaker Services,CNA,Active,2026-07-19,,20,Megan Hernandez,+1-752-657-6520
-63,Jeffrey,Rodriguez,23318 Adams Station Suite 907,Raymondshire,MI,31395,597.406.3963x2281,VA Benefits,Companion Care,CNA,Active,2026-07-19,,20,Shawn Evans,374-875-7735x572
+63,Jeffrey,Rodriguez,23318 Adams Station Suite 907,Raymondshire,MI,31395,597.406.3963x2281,VA Benefits,Companion Care,CNA,Discharged - Deceased,2026-07-19,2026-08-10,20,Shawn Evans,374-875-7735x572
 64,Jennifer,Taylor,36644 Hernandez Path,Bellborough,HI,22827,(405)305-8218x340,Medicaid,Homemaker Services,CG,Active,2026-07-20,,6,Henry Walsh,(713)674-2613x57975
 65,Kyle,Moore,580 Brown Rapid Apt. 782,Sharonfurt,HI,41997,888-650-5356x53155,VA Benefits,Skilled Nursing,CNA,Active,2026-07-20,,28,Emma Jordan,+1-979-737-5414x27298
 66,Alexandria,Johnson,192 William Hollow,Roblesside,GA,75765,566-696-5239x163,Medicaid,Respite Care,CG,Active,2026-07-21,,28,Robin Gregory,9376340755
@@ -98,5 +98,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 97,Christine,Davis,92865 Martinez Cove,South Christineland,WY,71517,001-437-511-6645x9433,VA Benefits,Skilled Nursing,CNA,Active,2026-08-08,,10,Tanner Willis,001-948-511-5376
 98,Mia,Phillips,7328 Crystal Mountain,Smithtown,TX,47176,+1-812-387-8543,LTC Insurance,Companion Care,CNA,Active,2026-08-08,,10,Jason Gordon,001-541-768-2785x86222
 99,Allison,Hubbard,528 Rodriguez Wall,Timothystad,WI,94564,634-905-4127,VA Benefits,Homemaker Services,LPN,Active,2026-08-08,,4,Kerri Morton,859-749-1868
-100,Toni,Lowe,48221 Kristen Squares Apt. 697,Vargasside,NY,06029,(971)696-7459,VA Benefits,Respite Care,LPN,Active,2026-08-09,,20,Patricia Ward,691.520.4575
+100,Toni,Lowe,48221 Kristen Squares Apt. 697,Vargasside,NY,6029,(971)696-7459,VA Benefits,Respite Care,LPN,Active,2026-08-09,,20,Patricia Ward,691.520.4575
 101,Kelsey,Woods,0642 Peter Vista,New Hunter,NC,54174,488.855.2130x4575,Medicaid,Personal Care,CHHA,Active,2026-08-09,,40,Mark Peterson,937-725-3996
+102,Kimberly,Munoz,3654 Salazar Mountains Apt. 241,East Joshua,GU,40932,9579607660,VA Benefits,Homemaker Services,LPN,Active,2026-08-10,,14,Scott Lopez,(915)387-3818x70234
+103,Amy,Norman,219 Schneider Groves,Lake Brendaton,PW,53225,001-636-234-6998x5788,Private Pay,Skilled Nursing,CHHA,Active,2026-08-10,,14,Traci Rose,+1-730-365-0701x950
