@@ -37,7 +37,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 36,Taylor,Evans,860 Morales Skyway,New Nicholasview,LA,10122,2008488243,Private Pay,Skilled Nursing,LPN,Active,2026-07-12,,4,Tammy Dean,473-478-9094x989
 37,Kari,Hernandez,736 Darryl Inlet,Goodmantown,PW,56070,457-296-6059x0925,Medicare,Skilled Nursing,LPN,Active,2026-07-12,,10,Sarah Patterson,+1-406-611-1463
 38,Catherine,Garcia,927 Christopher Haven,Lake Melissabury,OH,91848,+1-912-423-5042x9883,LTC Insurance,Homemaker Services,LPN,Active,2026-07-12,,10,Emily Hendricks,821.781.1812
-39,Samantha,Baker,50504 Jeffrey Ferry,Stefanieshire,MH,6942,742-718-3306x9952,Medicare,Personal Care,CG,Active,2026-07-14,,28,Douglas Strickland,001-390-559-4959
+39,Samantha,Baker,50504 Jeffrey Ferry,Stefanieshire,MH,6942,742-718-3306x9952,Medicare,Personal Care,CG,Discharged - Completed,2026-07-14,2026-08-11,28,Douglas Strickland,001-390-559-4959
 40,Dustin,Wilson,1302 Allen Circles Apt. 728,Julieberg,MI,74466,7642136844,LTC Insurance,Companion Care,RN,Active,2026-07-15,,28,Katie Harrison,+1-603-713-8432x649
 41,Mary,Horne,49419 Pamela Forks,Kellyfort,KY,21237,200.287.0029x16114,Medicare,Homemaker Services,RN,Active,2026-07-15,,10,Sean Drake,(355)990-4082
 42,Annette,Turner,1513 Kelley Flat Apt. 947,Cameronburgh,DE,57543,(217)373-2394,Medicaid,Companion Care,CNA,Discharged - Deceased,2026-07-15,2026-07-18,4,Daniel Davidson,386-600-7206x669
@@ -102,3 +102,5 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 101,Kelsey,Woods,0642 Peter Vista,New Hunter,NC,54174,488.855.2130x4575,Medicaid,Personal Care,CHHA,Active,2026-08-09,,40,Mark Peterson,937-725-3996
 102,Kimberly,Munoz,3654 Salazar Mountains Apt. 241,East Joshua,GU,40932,9579607660,VA Benefits,Homemaker Services,LPN,Active,2026-08-10,,14,Scott Lopez,(915)387-3818x70234
 103,Amy,Norman,219 Schneider Groves,Lake Brendaton,PW,53225,001-636-234-6998x5788,Private Pay,Skilled Nursing,CHHA,Active,2026-08-10,,14,Traci Rose,+1-730-365-0701x950
+104,Kenneth,Griffin,035 Zachary Mountain Apt. 842,Port Michelle,CO,89415,472.536.1004,Medicare,Skilled Nursing,CHHA,Active,2026-08-11,,40,Christy Fields,790-554-3143x1820
+105,Amy,Ramsey,560 Simon Mall Apt. 427,West Michaelchester,CT,26316,419.524.0814x56092,LTC Insurance,Skilled Nursing,CNA,Active,2026-08-11,,14,Rachel Cox,+1-751-917-8421x6348
