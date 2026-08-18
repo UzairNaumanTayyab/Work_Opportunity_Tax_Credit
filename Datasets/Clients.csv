@@ -103,7 +103,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 102,Kimberly,Munoz,3654 Salazar Mountains Apt. 241,East Joshua,GU,40932,9579607660,VA Benefits,Homemaker Services,LPN,Active,2026-08-10,,14,Scott Lopez,(915)387-3818x70234
 103,Amy,Norman,219 Schneider Groves,Lake Brendaton,PW,53225,001-636-234-6998x5788,Private Pay,Skilled Nursing,CHHA,Active,2026-08-10,,14,Traci Rose,+1-730-365-0701x950
 104,Kenneth,Griffin,035 Zachary Mountain Apt. 842,Port Michelle,CO,89415,472.536.1004,Medicare,Skilled Nursing,CHHA,Active,2026-08-11,,40,Christy Fields,790-554-3143x1820
-105,Amy,Ramsey,560 Simon Mall Apt. 427,West Michaelchester,CT,26316,419.524.0814x56092,LTC Insurance,Skilled Nursing,CNA,Active,2026-08-11,,14,Rachel Cox,+1-751-917-8421x6348
+105,Amy,Ramsey,560 Simon Mall Apt. 427,West Michaelchester,CT,26316,419.524.0814x56092,LTC Insurance,Skilled Nursing,CNA,Discharged - Hospitalized,2026-08-11,2026-08-18,14,Rachel Cox,+1-751-917-8421x6348
 106,Danny,Maldonado,437 Gonzales Village Apt. 426,West Stevenchester,LA,86395,796.555.2245x63154,Private Pay,Companion Care,RN,Active,2026-08-12,,10,Kevin Jackson,4596625698
 107,Kari,Jones,999 Proctor Dale,South Michele,GA,54992,001-744-614-9497x391,Medicaid,Homemaker Services,LPN,Active,2026-08-13,,40,Carlos Parks,+1-262-204-9796x3919
 108,Jerry,Walters,56324 Weber Mission,Davisberg,AS,81537,(972)926-6402x89766,VA Benefits,Companion Care,CNA,Active,2026-08-13,,14,Daniel Mcguire,(966)497-0587
@@ -111,3 +111,5 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 110,Lisa,Davidson,708 Welch Square Apt. 028,West Christophermouth,NE,25311,821.773.1065x6664,Medicaid,Skilled Nursing,RN,Active,2026-08-16,,6,Antonio Conway,3284722991
 111,Jason,Rogers,438 Shaw Walk,Mortonstad,PW,86874,216.365.6555x1476,Private Pay,Skilled Nursing,RN,Active,2026-08-16,,40,James Bird,547.776.3522x71503
 112,Ashley,Schwartz,704 Buck Road Suite 659,Harrisfort,OH,26419,(448)715-1257x02284,LTC Insurance,Homemaker Services,LPN,Active,2026-08-17,,6,Daniel Kim,001-797-262-6982
+113,Christopher,Schaefer,24713 Perez Branch,East Shelby,MI,03978,001-589-435-7765x9008,LTC Insurance,Personal Care,LPN,Active,2026-08-18,,20,Cheryl Sutton,(848)270-6615x2267
+114,Kelsey,Munoz,113 Allen Lock,North April,NM,13188,+1-459-780-5741x17169,Medicare,Companion Care,CG,Active,2026-08-18,,8,Valerie Shaw,788.302.7331x447
