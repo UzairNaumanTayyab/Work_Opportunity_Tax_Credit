@@ -90,7 +90,7 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 89,Matthew,Clark,6540 James Tunnel Suite 548,Lopezview,MI,86921,(510)973-1598,Medicare,Companion Care,RN,Active,2026-08-04,,40,Kelly Wolfe,851.448.2776
 90,Charles,Thomas,7143 Thompson Burgs Suite 799,Lake Denise,ID,87888,297-799-8593,LTC Insurance,Skilled Nursing,RN,Active,2026-08-05,,6,Michael Becker,(381)743-1989x674
 91,Johnny,Rollins,008 Abigail Place,Travisport,LA,60584,335.842.7326x9362,VA Benefits,Homemaker Services,CNA,Active,2026-08-05,,4,Katherine Patton,+1-872-723-3363x160
-92,Leslie,Ramos,80774 Solomon River Suite 617,East Sarah,VA,86481,+1-883-369-8788,Medicare,Companion Care,RN,Active,2026-08-05,,20,Lauren Martinez,(311)847-8492
+92,Leslie,Ramos,80774 Solomon River Suite 617,East Sarah,VA,86481,+1-883-369-8788,Medicare,Companion Care,RN,Discharged - Completed,2026-08-05,2026-08-30,20,Lauren Martinez,(311)847-8492
 93,Jill,Arnold,829 Jordan Park,Hornside,SC,12610,001-791-912-8733x3259,VA Benefits,Companion Care,CG,Active,2026-08-06,,6,Jessica Gonzalez,919.681.0590
 94,Mary,Valentine,460 Giles Trace,New Linda,AK,3364,693.952.3176x441,Private Pay,Homemaker Services,CHHA,Discharged - Hospitalized,2026-08-06,2026-08-09,40,Chris Jordan,(306)553-3002x562
 95,David,Hendrix,30967 Armstrong Burg,New Andrewland,IA,7600,+1-276-894-0628,Medicaid,Respite Care,CG,Active,2026-08-07,,14,Amanda Mitchell,001-919-310-8568x27472
@@ -127,3 +127,5 @@ client_id,first_name,last_name,address,city,state,zip,primary_phone,payer_type,c
 126,Joseph,Mason,7327 Monroe Islands,East Meganland,ND,96147,001-772-760-3965x95750,Private Pay,Respite Care,CG,Active,2026-08-27,,20,Deborah Hinton,(611)589-4977
 127,Andrew,Murphy,1619 Bradley Dale,West Laurastad,TN,75725,357.482.6932x0789,LTC Insurance,Skilled Nursing,LPN,Active,2026-08-28,,20,Mr. Danny Blevins,(906)605-4885x72284
 128,Eric,Simmons,8311 Lisa Track Apt. 770,Joseshire,FL,24202,378.785.0914x7195,Medicare,Personal Care,CHHA,Active,2026-08-29,,40,Sara Curtis,001-318-932-6715x87073
+129,Cassandra,Miller,588 Laura Ranch Apt. 747,Port Bradleyport,NV,48400,716-685-8651x14121,Medicare,Homemaker Services,RN,Active,2026-08-30,,14,April Irwin,+1-581-861-6115x0337
+130,Jonathan,Montes,86620 Joseph Rue Suite 891,West Johnton,AL,94406,001-405-832-3792,Medicare,Skilled Nursing,CNA,Active,2026-08-30,,14,Christopher Love,763.790.2276x523
